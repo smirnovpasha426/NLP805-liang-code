@@ -1,0 +1,16 @@
+label,precision,recall,f1,support
+Economic,0.0,0.0,0.0,16.4
+Capacity_and_resources,0.0,0.0,0.0,15.4
+Morality,0.0,0.0,0.0,12.8
+Fairness_and_equality,0.0,0.0,0.0,12.2
+Legality_Constitutionality_and_jurisprudence,0.0,0.0,0.0,14.4
+Policy_prescription_and_evaluation,0.0,0.0,0.0,16.6
+Crime_and_punishment,0.0,0.0,0.0,16.0
+Security_and_defense,0.0,0.0,0.0,37.8
+Health_and_safety,0.0,0.0,0.0,22.0
+Quality_of_life,0.0,0.0,0.0,20.6
+Cultural_identity,0.0,0.0,0.0,6.6
+Public_opinion,0.0,0.0,0.0,9.2
+Political,0.0,0.0,0.0,36.2
+External_regulation_and_reputation,0.0,0.0,0.0,15.4
+None,0.25451765558640793,1.0,0.403893233101147,52.0

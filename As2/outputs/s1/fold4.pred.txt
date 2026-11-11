@@ -1,0 +1,259 @@
+EN_M_TRAIN_59.txt	0	54
+EN_M_TRAIN_59.txt	58	651	Quality_of_life
+EN_M_TRAIN_59.txt	655	997	Quality_of_life
+EN_M_TRAIN_59.txt	1001	1984	Quality_of_life
+EN_M_TRAIN_59.txt	1988	2396	Quality_of_life
+EN_M_TRAIN_59.txt	2400	2990
+EN_M_TRAIN_3.txt	0	62
+EN_M_TRAIN_3.txt	66	213
+EN_M_TRAIN_3.txt	217	446
+EN_M_TRAIN_3.txt	450	643
+EN_M_TRAIN_3.txt	647	817
+EN_M_TRAIN_3.txt	821	1013
+EN_M_TRAIN_3.txt	1017	1245
+EN_M_TRAIN_3.txt	1249	1520
+EN_M_TRAIN_3.txt	1524	1860
+EN_M_TRAIN_3.txt	1864	1932
+EN_M_TRAIN_3.txt	1936	2156
+EN_M_TRAIN_3.txt	2160	2480
+EN_M_TRAIN_3.txt	2484	2621	Policy_prescription_and_evaluation
+EN_M_TRAIN_3.txt	2625	2664
+EN_M_TRAIN_3.txt	2668	3136	Quality_of_life
+EN_M_TRAIN_3.txt	3140	3285
+EN_M_TRAIN_3.txt	3289	3691
+EN_M_TRAIN_3.txt	3695	3711
+EN_M_TRAIN_3.txt	3715	3972
+EN_M_TRAIN_3.txt	3976	4330
+EN_M_TRAIN_3.txt	4334	4605
+EN_M_TRAIN_3.txt	4609	4719
+EN_M_TRAIN_3.txt	4723	4927
+EN_M_TRAIN_32.txt	0	67
+EN_M_TRAIN_32.txt	71	571
+EN_M_TRAIN_32.txt	575	1241	Policy_prescription_and_evaluation	Quality_of_life
+EN_M_TRAIN_32.txt	1245	1596
+EN_M_TRAIN_32.txt	1600	2124	Policy_prescription_and_evaluation	Quality_of_life	Political
+EN_TRIAL_5.txt	0	64
+EN_TRIAL_5.txt	66	259
+EN_TRIAL_5.txt	261	504	Political
+EN_TRIAL_5.txt	506	594
+EN_TRIAL_5.txt	596	870	Policy_prescription_and_evaluation
+EN_TRIAL_5.txt	872	1118	Policy_prescription_and_evaluation
+EN_TRIAL_5.txt	1120	1148
+EN_TRIAL_5.txt	1150	1368	Policy_prescription_and_evaluation	Political
+EN_TRIAL_5.txt	1370	1586	Policy_prescription_and_evaluation	Political
+EN_TRIAL_5.txt	1588	1871
+EN_TRIAL_5.txt	1873	2077
+EN_M_TRAIN_12.txt	0	70
+EN_M_TRAIN_12.txt	74	651	Security_and_defense	Quality_of_life
+EN_M_TRAIN_12.txt	655	1121
+EN_M_TRAIN_12.txt	1125	1452	Quality_of_life
+EN_M_TRAIN_12.txt	1456	1991
+EN_M_TRAIN_12.txt	1995	2263
+EN_M_TRAIN_12.txt	2267	2618
+EN_M_TRAIN_12.txt	2622	3056
+EN_M_TRAIN_12.txt	3060	3345
+EN_M_TRAIN_12.txt	3349	3778
+EN_M_TRAIN_12.txt	3782	4150
+EN_M_TRAIN_21.txt	0	69
+EN_M_TRAIN_21.txt	73	632	Morality
+EN_M_TRAIN_21.txt	636	915
+EN_M_TRAIN_21.txt	919	1310	Morality
+EN_M_TRAIN_21.txt	1314	2086	Morality
+EN_M_TRAIN_21.txt	2090	2869	Quality_of_life
+EN_M_TRAIN_21.txt	2873	3090
+EN_M_TRAIN_21.txt	3094	3489
+EN_M_TRAIN_79.txt	0	99	Policy_prescription_and_evaluation
+EN_M_TRAIN_79.txt	103	683	Policy_prescription_and_evaluation
+EN_M_TRAIN_79.txt	687	881
+EN_M_TRAIN_79.txt	885	1151
+EN_M_TRAIN_79.txt	1155	1700
+EN_M_TRAIN_79.txt	1704	2108
+EN_M_TRAIN_79.txt	2112	2761
+EN_M_TRAIN_79.txt	2765	3070	Policy_prescription_and_evaluation	Political
+EN_M_TRAIN_79.txt	3074	3382	Policy_prescription_and_evaluation
+EN_M_TRAIN_79.txt	3386	3974
+EN_M_TRAIN_79.txt	3978	4340
+EN_M_TRAIN_79.txt	4344	4636	Political
+EN_M_TRAIN_79.txt	4640	4981	Political
+EN_M_TRAIN_79.txt	4985	5388
+EN_M_TRAIN_79.txt	5392	5675
+EN_M_TRAIN_79.txt	5679	5935
+EN_M_TRAIN_79.txt	5939	6147	Policy_prescription_and_evaluation
+EN_M_TRAIN_79.txt	6151	6715	Political
+EN_M_TRAIN_79.txt	6719	6965	Political
+EN_M_TRAIN_79.txt	6969	7444
+EN_M_TRAIN_36.txt	0	84
+EN_M_TRAIN_36.txt	88	850	Political
+EN_M_TRAIN_36.txt	854	1478	Political
+EN_M_TRAIN_36.txt	1482	2186	Policy_prescription_and_evaluation
+EN_M_TRAIN_36.txt	2190	2662
+EN_M_TRAIN_36.txt	2666	3065	Policy_prescription_and_evaluation
+EN_M_TRAIN_36.txt	3069	3506
+EN_M_TRAIN_36.txt	3510	4070	Quality_of_life
+EN_M_TRAIN_36.txt	4074	4400	Economic
+EN_M_TRAIN_36.txt	4404	4768
+EN_M_TRAIN_36.txt	4772	5381	Political
+EN_M_TRAIN_36.txt	5385	5836	Quality_of_life	Political
+EN_M_TRAIN_36.txt	5840	6132
+EN_M_TRAIN_36.txt	6136	6512
+EN_M_TRAIN_36.txt	6516	6627
+EN_M_TRAIN_76.txt	0	57
+EN_M_TRAIN_76.txt	61	956	Policy_prescription_and_evaluation	Political	External_regulation_and_reputation
+EN_M_TRAIN_76.txt	960	1579	Policy_prescription_and_evaluation	Political
+EN_M_TRAIN_76.txt	1583	2016
+EN_M_TRAIN_76.txt	2020	2615	Policy_prescription_and_evaluation	Political
+EN_M_TRAIN_76.txt	2619	2974	Policy_prescription_and_evaluation	Political
+EN_M_TRAIN_76.txt	2978	3830	Policy_prescription_and_evaluation	Political
+EN_M_TRAIN_76.txt	3834	4404
+EN_TRAIL_2.txt	0	81
+EN_TRAIL_2.txt	83	313	Political
+EN_TRAIL_2.txt	315	698
+EN_TRAIL_2.txt	700	929	Political
+EN_TRAIL_2.txt	931	1108	Political
+EN_TRAIL_2.txt	1110	1147
+EN_TRAIL_2.txt	1149	1371
+EN_TRAIL_2.txt	1373	1501	Political
+EN_TRAIL_2.txt	1503	1666	Policy_prescription_and_evaluation
+EN_TRAIL_2.txt	1668	1951	Policy_prescription_and_evaluation
+EN_TRAIL_2.txt	1953	2047
+EN_TRAIL_2.txt	2049	2158
+EN_TRAIL_2.txt	2160	2185	Policy_prescription_and_evaluation
+EN_TRAIL_2.txt	2187	2513	Policy_prescription_and_evaluation
+EN_TRAIL_2.txt	2515	2664	Fairness_and_equality
+EN_TRAIL_2.txt	2666	2938	Policy_prescription_and_evaluation
+EN_TRAIL_2.txt	2940	3147	Political
+EN_TRAIL_2.txt	3149	3274
+EN_TRAIL_2.txt	3276	3469	Political
+EN_TRAIL_2.txt	3471	3805	Policy_prescription_and_evaluation
+EN_TRAIL_2.txt	3807	3822
+EN_TRAIL_2.txt	3824	4060	Policy_prescription_and_evaluation
+EN_TRAIL_2.txt	4062	4343	Policy_prescription_and_evaluation
+EN_TRAIL_2.txt	4345	4541
+EN_TRAIL_2.txt	4543	4575
+EN_TRAIL_2.txt	4577	4802
+EN_TRAIL_2.txt	4804	4939	Quality_of_life
+EN_TRAIL_2.txt	4941	5131
+EN_TRAIL_2.txt	5133	5257
+EN_TRAIL_2.txt	5259	5405
+EN_TRAIL_2.txt	5407	5503
+EN_M_TRAIN_64.txt	0	41	Policy_prescription_and_evaluation
+EN_M_TRAIN_64.txt	45	640	Policy_prescription_and_evaluation	Political
+EN_M_TRAIN_64.txt	644	1150
+EN_M_TRAIN_64.txt	1154	1399	Policy_prescription_and_evaluation	Political
+EN_M_TRAIN_64.txt	1403	1664	Political
+EN_M_TRAIN_64.txt	1668	2132	Policy_prescription_and_evaluation	Political
+EN_M_TRAIN_64.txt	2136	2530	Political
+EN_M_TRAIN_64.txt	2534	2905
+EN_M_TRAIN_64.txt	2909	3245	Policy_prescription_and_evaluation
+EN_M_TRAIN_64.txt	3249	3515
+EN_M_TRAIN_64.txt	3519	3829
+EN_M_TRAIN_64.txt	3833	4200
+EN_M_TRAIN_64.txt	4204	4489	Political
+EN_M_TRAIN_64.txt	4493	4999	Policy_prescription_and_evaluation	Political
+EN_M_TRAIN_64.txt	5003	5234
+EN_M_TRAIN_64.txt	5238	5584
+EN_M_TRAIN_51.txt	0	76
+EN_M_TRAIN_51.txt	80	322
+EN_M_TRAIN_51.txt	326	607
+EN_M_TRAIN_51.txt	611	841	Policy_prescription_and_evaluation
+EN_M_TRAIN_51.txt	845	1059
+EN_M_TRAIN_51.txt	1063	1431
+EN_M_TRAIN_51.txt	1435	1821
+EN_M_TRAIN_51.txt	1825	2260
+EN_M_TRAIN_51.txt	2264	2493
+EN_M_TRAIN_51.txt	2497	2876	Policy_prescription_and_evaluation
+EN_M_TRAIN_51.txt	2880	3193	Quality_of_life
+EN_M_TRAIN_51.txt	3197	3389	Quality_of_life
+EN_M_TRAIN_51.txt	3393	3594
+EN_M_TRAIN_51.txt	3598	4246
+EN_M_TRAIN_4.txt	0	69
+EN_M_TRAIN_4.txt	73	204
+EN_M_TRAIN_4.txt	208	520
+EN_M_TRAIN_4.txt	524	692
+EN_M_TRAIN_4.txt	696	1332
+EN_M_TRAIN_4.txt	1336	1347
+EN_M_TRAIN_4.txt	1351	1769
+EN_M_TRAIN_4.txt	1773	2144
+EN_M_TRAIN_4.txt	2148	2304
+EN_M_TRAIN_4.txt	2308	2611
+EN_M_TRAIN_4.txt	2615	2952
+EN_M_TRAIN_4.txt	2956	3279
+EN_M_TRAIN_4.txt	3283	3527
+EN_M_TRAIN_29.txt	0	71
+EN_M_TRAIN_29.txt	75	459	Security_and_defense	Quality_of_life
+EN_M_TRAIN_29.txt	463	946	Quality_of_life
+EN_M_TRAIN_29.txt	950	1152
+EN_M_TRAIN_29.txt	1156	1418
+EN_M_TRAIN_29.txt	1422	1697
+EN_M_TRAIN_29.txt	1701	2219	Quality_of_life
+EN_M_TRAIN_29.txt	2223	2650
+EN_M_TRAIN_29.txt	2654	3201
+EN_M_TRAIN_37.txt	0	46
+EN_M_TRAIN_37.txt	50	928	Public_opinion	Political
+EN_M_TRAIN_37.txt	932	1149	Public_opinion
+EN_M_TRAIN_37.txt	1153	1515	Economic	Capacity_and_resources
+EN_M_TRAIN_37.txt	1519	1853	Capacity_and_resources
+EN_M_TRAIN_37.txt	1857	2183	Capacity_and_resources
+EN_M_TRAIN_37.txt	2187	2501
+EN_M_TRAIN_37.txt	2505	2885	Economic	Capacity_and_resources	Quality_of_life
+EN_TRIAL_4.txt	0	62
+EN_TRIAL_4.txt	64	215
+EN_TRIAL_4.txt	217	474
+EN_TRIAL_4.txt	476	675	Policy_prescription_and_evaluation
+EN_TRIAL_4.txt	677	968	Policy_prescription_and_evaluation
+EN_TRIAL_4.txt	970	1193
+EN_TRIAL_4.txt	1195	1390	Policy_prescription_and_evaluation
+EN_TRIAL_4.txt	1392	1659	Policy_prescription_and_evaluation	Political
+EN_TRIAL_4.txt	1661	1888
+EN_TRIAL_4.txt	1890	1990
+EN_TRIAL_4.txt	1992	2210	Political
+EN_TRIAL_4.txt	2212	2400
+EN_TRIAL_4.txt	2402	2479
+EN_TRIAL_4.txt	2481	2507
+EN_TRIAL_4.txt	2509	2684	Policy_prescription_and_evaluation	Political
+EN_TRIAL_4.txt	2686	2818	Policy_prescription_and_evaluation
+EN_TRIAL_4.txt	2820	3096	Policy_prescription_and_evaluation
+EN_TRIAL_4.txt	3098	3126
+EN_TRIAL_4.txt	3128	3328
+EN_TRIAL_4.txt	3330	3819	Economic	Policy_prescription_and_evaluation
+EN_TRIAL_4.txt	3821	4153	Policy_prescription_and_evaluation
+EN_TRIAL_4.txt	4155	4225
+EN_TRIAL_4.txt	4227	4617	Policy_prescription_and_evaluation
+EN_TRIAL_4.txt	4619	4789
+EN_TRIAL_4.txt	4791	4887	Policy_prescription_and_evaluation
+EN_TRIAL_4.txt	4889	4973
+EN_TRIAL_4.txt	4975	5220
+EN_TRIAL_4.txt	5222	5266	Policy_prescription_and_evaluation
+EN_TRIAL_4.txt	5268	5407
+EN_TRIAL_4.txt	5409	5593	Policy_prescription_and_evaluation	Quality_of_life
+EN_TRIAL_4.txt	5595	5923	Policy_prescription_and_evaluation
+EN_TRIAL_4.txt	5925	6066	Policy_prescription_and_evaluation
+EN_TRIAL_4.txt	6068	6324
+EN_TRIAL_4.txt	6326	6590	Policy_prescription_and_evaluation
+EN_TRIAL_4.txt	6592	6741
+EN_TRIAL_4.txt	6743	6881	Political
+EN_TRIAL_4.txt	6883	7027	Policy_prescription_and_evaluation	Political
+EN_TRIAL_4.txt	7029	7342	Policy_prescription_and_evaluation	Political
+EN_M_TRAIN_56.txt	0	94	Quality_of_life
+EN_M_TRAIN_56.txt	98	708	Quality_of_life
+EN_M_TRAIN_56.txt	712	1107
+EN_M_TRAIN_56.txt	1111	1513	Policy_prescription_and_evaluation
+EN_M_TRAIN_56.txt	1517	1998	Quality_of_life
+EN_M_TRAIN_56.txt	2002	2384	Quality_of_life
+EN_M_TRAIN_30.txt	0	41
+EN_M_TRAIN_30.txt	45	531
+EN_M_TRAIN_30.txt	535	743
+EN_M_TRAIN_30.txt	747	1009
+EN_M_TRAIN_30.txt	1013	1384
+EN_M_TRAIN_30.txt	1388	2057
+EN_M_TRAIN_30.txt	2061	2367
+EN_M_TRAIN_30.txt	2371	2658
+EN_M_TRAIN_30.txt	2662	3024	Policy_prescription_and_evaluation
+EN_M_TRAIN_73.txt	0	68
+EN_M_TRAIN_73.txt	72	657	Policy_prescription_and_evaluation
+EN_M_TRAIN_73.txt	661	892	Policy_prescription_and_evaluation
+EN_M_TRAIN_73.txt	896	1146	Policy_prescription_and_evaluation
+EN_M_TRAIN_73.txt	1150	1603	Public_opinion
+EN_M_TRAIN_73.txt	1607	1977	Policy_prescription_and_evaluation
+EN_M_TRAIN_73.txt	1981	2459	Policy_prescription_and_evaluation	Quality_of_life
+EN_M_TRAIN_73.txt	2463	2747
