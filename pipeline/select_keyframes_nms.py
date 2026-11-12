@@ -3,7 +3,7 @@ def compute_frame_distance(input):
     model_name, forward_distance, backward_distance = input
     videoId = '-'.join(model_name.split('-')[:-1])
     modelId = model_name.split('-')[-1]
-    file_path = f"/mnt/data/data/ytb_vln/trajectory_shots_scamera/{videoId}/sparse/{modelId}"
+    file_path = f"/mnt/data/data/roomroute/trajectory_shots_scamera/{videoId}/sparse/{modelId}"
     _, images_data, _ = parse_images_bin(file_path)
     scale_factors_dict = scale_factors[model_name]
     scale_factor = scale_factors_dict['mean']

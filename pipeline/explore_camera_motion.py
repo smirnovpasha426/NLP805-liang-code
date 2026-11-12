@@ -71,7 +71,7 @@ def analyze_camera_movements(camera_poses):
 
     return movements
 
-images_data = parse_images_txt('/Users/user/Documents/ytb_vln/demos/trajectory/8_living_room_into_kitchen/text/images.txt')
+images_data = parse_images_txt('/Users/user/Documents/roomroute/demos/trajectory/8_living_room_into_kitchen/text/images.txt')
 images_data = sorted(images_data, key=lambda x:x['image_id'])
 analyze_camera_movements(images_data)
 # movements = [analyze_camera_movements(d) for d in images_data]
