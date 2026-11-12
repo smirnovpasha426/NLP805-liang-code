@@ -1,0 +1,170 @@
+EN_M_TRAIN_1.txt	0	76
+EN_M_TRAIN_1.txt	80	410	Political
+EN_M_TRAIN_1.txt	414	941	Political
+EN_M_TRAIN_1.txt	945	1046
+EN_M_TRAIN_1.txt	1050	1410	Political	External_regulation_and_reputation
+EN_M_TRAIN_1.txt	1414	1795	Political
+EN_M_TRAIN_1.txt	1799	2093	Political
+EN_M_TRAIN_1.txt	2097	2291
+EN_M_TRAIN_1.txt	2295	2571	Political
+EN_M_TRAIN_1.txt	2575	2960
+EN_M_TRAIN_1.txt	2964	3263	Political
+EN_M_TRAIN_1.txt	3267	3555	Political
+EN_M_TRAIN_1.txt	3559	3697
+EN_M_TRAIN_77.txt	0	77
+EN_M_TRAIN_77.txt	81	422	Health_and_safety
+EN_M_TRAIN_77.txt	426	1080	Health_and_safety	External_regulation_and_reputation
+EN_M_TRAIN_77.txt	1084	1503	Political	External_regulation_and_reputation
+EN_M_TRAIN_77.txt	1507	2115	Health_and_safety	Quality_of_life	External_regulation_and_reputation
+EN_M_TRAIN_77.txt	2119	2533	Health_and_safety	Quality_of_life	External_regulation_and_reputation
+EN_M_TRAIN_77.txt	2537	2878	Health_and_safety
+EN_M_TRAIN_77.txt	2882	3248	Health_and_safety	External_regulation_and_reputation
+EN_M_TRAIN_77.txt	3252	3635	External_regulation_and_reputation
+EN_M_TRAIN_77.txt	3639	3959
+EN_M_TRAIN_69.txt	0	88	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Political
+EN_M_TRAIN_69.txt	92	555	External_regulation_and_reputation
+EN_M_TRAIN_69.txt	559	1353	Health_and_safety
+EN_M_TRAIN_69.txt	1357	2537	Economic	Health_and_safety	Quality_of_life	External_regulation_and_reputation
+EN_M_TRAIN_69.txt	2541	3635	Economic	Health_and_safety	Quality_of_life	External_regulation_and_reputation
+EN_M_TRAIN_69.txt	3639	4392	Economic	Health_and_safety	External_regulation_and_reputation
+EN_M_TRAIN_81.txt	0	81
+EN_M_TRAIN_81.txt	85	449	Crime_and_punishment	Security_and_defense	Health_and_safety
+EN_M_TRAIN_81.txt	453	799	Crime_and_punishment
+EN_M_TRAIN_81.txt	803	1162
+EN_M_TRAIN_81.txt	1166	1784
+EN_M_TRAIN_81.txt	1788	1982	Health_and_safety
+EN_M_TRAIN_81.txt	1986	2414
+EN_M_TRAIN_81.txt	2418	2792	Political	External_regulation_and_reputation
+EN_M_TRAIN_7.txt	0	44
+EN_M_TRAIN_7.txt	48	439	Health_and_safety
+EN_M_TRAIN_7.txt	443	740
+EN_M_TRAIN_7.txt	744	806
+EN_M_TRAIN_7.txt	810	1040
+EN_M_TRAIN_7.txt	1044	1404	Health_and_safety
+EN_M_TRAIN_7.txt	1408	1546
+EN_M_TRAIN_7.txt	1550	1695
+EN_M_TRAIN_7.txt	1699	1926
+EN_M_TRAIN_7.txt	1930	2385
+EN_M_TRAIN_7.txt	2389	2938	Political	External_regulation_and_reputation
+EN_M_TRAIN_7.txt	2942	3206
+EN_M_TRAIN_7.txt	3210	3624	Health_and_safety
+EN_M_TRAIN_7.txt	3628	3839	Health_and_safety
+EN_M_TRAIN_7.txt	3843	4093
+EN_M_TRAIN_7.txt	4097	4309
+EN_M_TRAIN_7.txt	4313	4350
+EN_M_TRAIN_7.txt	4354	4505
+EN_M_TRAIN_7.txt	4509	4831
+EN_M_TRAIN_7.txt	4835	5100
+EN_M_TRAIN_7.txt	5104	5364	Health_and_safety
+EN_M_TRAIN_7.txt	5368	5486
+EN_M_TRAIN_7.txt	5490	5530
+EN_M_TRAIN_7.txt	5534	5807
+EN_M_TRAIN_7.txt	5811	6035
+EN_M_TRAIN_7.txt	6039	6085
+EN_M_TRAIN_7.txt	6089	6448	Health_and_safety
+EN_M_TRAIN_7.txt	6452	6585
+EN_M_TRAIN_7.txt	6589	6793
+EN_M_TRAIN_42.txt	0	80
+EN_M_TRAIN_42.txt	84	604	Health_and_safety	External_regulation_and_reputation
+EN_M_TRAIN_42.txt	608	867	Political	External_regulation_and_reputation
+EN_M_TRAIN_42.txt	871	1238	External_regulation_and_reputation
+EN_M_TRAIN_42.txt	1242	1711	Morality	Fairness_and_equality	Crime_and_punishment	Health_and_safety	External_regulation_and_reputation
+EN_M_TRAIN_23.txt	0	58	Health_and_safety
+EN_M_TRAIN_23.txt	62	365
+EN_M_TRAIN_23.txt	369	829
+EN_M_TRAIN_23.txt	833	1157
+EN_M_TRAIN_23.txt	1161	1534
+EN_M_TRAIN_23.txt	1538	1845	Health_and_safety
+EN_M_TRAIN_23.txt	1849	2568
+EN_M_TRAIN_23.txt	2572	3110
+EN_M_TRAIN_23.txt	3114	3955
+EN_M_TRAIN_23.txt	3959	4607	Political	External_regulation_and_reputation
+EN_M_TRAIN_23.txt	4611	5114
+EN_M_TRAIN_23.txt	5118	5454	Political
+EN_M_TRAIN_23.txt	5458	5962	External_regulation_and_reputation
+EN_M_TRAIN_68.txt	0	101
+EN_M_TRAIN_68.txt	105	555	Crime_and_punishment	Health_and_safety	External_regulation_and_reputation
+EN_M_TRAIN_68.txt	559	1022	Health_and_safety	Quality_of_life	External_regulation_and_reputation
+EN_M_TRAIN_68.txt	1026	1275
+EN_M_TRAIN_68.txt	1279	1573	Health_and_safety
+EN_M_TRAIN_68.txt	1577	2053	Economic	Capacity_and_resources	Health_and_safety	Quality_of_life	External_regulation_and_reputation
+EN_M_TRAIN_68.txt	2057	2590	Health_and_safety
+EN_M_TRAIN_43.txt	0	76	Health_and_safety
+EN_M_TRAIN_43.txt	80	705	Health_and_safety
+EN_M_TRAIN_43.txt	709	802	Legality_Constitutionality_and_jurisprudence	Political	External_regulation_and_reputation
+EN_M_TRAIN_43.txt	806	1239	Health_and_safety
+EN_M_TRAIN_43.txt	1243	1955	Crime_and_punishment	Security_and_defense	Health_and_safety	External_regulation_and_reputation
+EN_M_TRAIN_43.txt	1959	2362	Health_and_safety	Quality_of_life
+EN_M_TRAIN_43.txt	2366	2572
+EN_M_TRAIN_27.txt	0	67	Crime_and_punishment	Health_and_safety
+EN_M_TRAIN_27.txt	71	563	Legality_Constitutionality_and_jurisprudence	External_regulation_and_reputation
+EN_M_TRAIN_27.txt	567	1142	Political
+EN_M_TRAIN_27.txt	1146	1535
+EN_M_TRAIN_27.txt	1539	2289	Morality	Health_and_safety	Quality_of_life	External_regulation_and_reputation
+EN_M_TRAIN_27.txt	2293	2698	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment	Health_and_safety	External_regulation_and_reputation
+EN_M_TRAIN_27.txt	2702	2999
+EN_M_TRAIN_27.txt	3003	3532	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_88.txt	0	89
+EN_M_TRAIN_88.txt	93	723	Legality_Constitutionality_and_jurisprudence	External_regulation_and_reputation
+EN_M_TRAIN_15.txt	0	52
+EN_M_TRAIN_15.txt	56	742	Health_and_safety
+EN_M_TRAIN_15.txt	746	1124	Health_and_safety
+EN_M_TRAIN_15.txt	1128	1385	Health_and_safety
+EN_M_TRAIN_15.txt	1389	1935	Health_and_safety	External_regulation_and_reputation
+EN_M_TRAIN_15.txt	1939	2294	Health_and_safety
+EN_M_TRAIN_80.txt	0	54	Political
+EN_M_TRAIN_80.txt	58	478	Fairness_and_equality	Political
+EN_M_TRAIN_80.txt	482	935	Fairness_and_equality	Political
+EN_M_TRAIN_80.txt	939	1383	Political
+EN_M_TRAIN_80.txt	1387	1706
+EN_M_TRAIN_80.txt	1710	1972	Political
+EN_M_TRAIN_80.txt	1976	2340
+EN_M_TRAIN_89.txt	0	46
+EN_M_TRAIN_89.txt	50	526	Health_and_safety
+EN_M_TRAIN_89.txt	530	719
+EN_M_TRAIN_89.txt	723	1007
+EN_M_TRAIN_89.txt	1011	1312
+EN_M_TRAIN_89.txt	1316	1590	Health_and_safety
+EN_M_TRAIN_89.txt	1594	2023
+EN_M_TRAIN_89.txt	2027	2365
+EN_M_TRAIN_89.txt	2369	2732	Health_and_safety
+EN_M_TRAIN_39.txt	0	48	Legality_Constitutionality_and_jurisprudence	Political
+EN_M_TRAIN_39.txt	52	414	External_regulation_and_reputation
+EN_M_TRAIN_39.txt	418	784	Crime_and_punishment
+EN_M_TRAIN_39.txt	788	1165	Legality_Constitutionality_and_jurisprudence	Political	External_regulation_and_reputation
+EN_M_TRAIN_39.txt	1169	1508	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Political
+EN_M_TRAIN_39.txt	1512	1851	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Political
+EN_M_TRAIN_39.txt	1855	2142	Legality_Constitutionality_and_jurisprudence	Security_and_defense	Political	External_regulation_and_reputation
+EN_M_TRAIN_39.txt	2146	2317	Political
+EN_M_TRAIN_13.txt	0	67
+EN_M_TRAIN_13.txt	71	426	Health_and_safety
+EN_M_TRAIN_13.txt	430	912	Health_and_safety
+EN_M_TRAIN_13.txt	916	1133	Health_and_safety
+EN_M_TRAIN_13.txt	1137	2113	Health_and_safety
+EN_M_TRAIN_13.txt	2117	2388
+EN_M_TRAIN_13.txt	2392	2869
+EN_M_TRAIN_13.txt	2873	3092
+EN_M_TRAIN_13.txt	3096	3789
+EN_M_TRAIN_48.txt	0	93	Political
+EN_M_TRAIN_48.txt	97	789	Political	External_regulation_and_reputation
+EN_M_TRAIN_48.txt	793	999
+EN_M_TRAIN_48.txt	1003	1496	Political	External_regulation_and_reputation
+EN_M_TRAIN_48.txt	1500	2321	Political
+EN_M_TRAIN_48.txt	2325	2562
+EN_M_TRAIN_48.txt	2566	2924
+EN_M_TRAIN_48.txt	2928	3516	Political	External_regulation_and_reputation
+EN_M_TRAIN_48.txt	3520	3870	External_regulation_and_reputation
+EN_M_TRAIN_48.txt	3874	4127
+EN_M_TRAIN_48.txt	4131	4449	External_regulation_and_reputation
+EN_M_TRAIN_48.txt	4453	4753	Political
+EN_M_TRAIN_48.txt	4757	5312	External_regulation_and_reputation
+EN_M_TRAIN_48.txt	5316	5502	Political
+EN_M_TRAIN_18.txt	0	62
+EN_M_TRAIN_18.txt	66	587	Health_and_safety
+EN_M_TRAIN_18.txt	591	926	Health_and_safety
+EN_M_TRAIN_18.txt	930	1264
+EN_M_TRAIN_18.txt	1268	1654
+EN_M_TRAIN_41.txt	0	42	External_regulation_and_reputation
+EN_M_TRAIN_41.txt	46	526	Morality	Health_and_safety	External_regulation_and_reputation
+EN_M_TRAIN_41.txt	530	1270	Health_and_safety	External_regulation_and_reputation
+EN_M_TRAIN_41.txt	1274	1630

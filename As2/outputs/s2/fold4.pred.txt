@@ -1,0 +1,259 @@
+EN_M_TRAIN_59.txt	0	54	Political
+EN_M_TRAIN_59.txt	58	651	Health_and_safety	Quality_of_life
+EN_M_TRAIN_59.txt	655	997	Quality_of_life
+EN_M_TRAIN_59.txt	1001	1984	Health_and_safety	Quality_of_life
+EN_M_TRAIN_59.txt	1988	2396	Capacity_and_resources	Quality_of_life
+EN_M_TRAIN_59.txt	2400	2990
+EN_M_TRAIN_3.txt	0	62
+EN_M_TRAIN_3.txt	66	213
+EN_M_TRAIN_3.txt	217	446
+EN_M_TRAIN_3.txt	450	643
+EN_M_TRAIN_3.txt	647	817	Security_and_defense
+EN_M_TRAIN_3.txt	821	1013
+EN_M_TRAIN_3.txt	1017	1245
+EN_M_TRAIN_3.txt	1249	1520
+EN_M_TRAIN_3.txt	1524	1860
+EN_M_TRAIN_3.txt	1864	1932
+EN_M_TRAIN_3.txt	1936	2156	Quality_of_life
+EN_M_TRAIN_3.txt	2160	2480
+EN_M_TRAIN_3.txt	2484	2621
+EN_M_TRAIN_3.txt	2625	2664
+EN_M_TRAIN_3.txt	2668	3136	Capacity_and_resources	Quality_of_life
+EN_M_TRAIN_3.txt	3140	3285
+EN_M_TRAIN_3.txt	3289	3691	Quality_of_life
+EN_M_TRAIN_3.txt	3695	3711
+EN_M_TRAIN_3.txt	3715	3972
+EN_M_TRAIN_3.txt	3976	4330	Quality_of_life
+EN_M_TRAIN_3.txt	4334	4605	Quality_of_life
+EN_M_TRAIN_3.txt	4609	4719
+EN_M_TRAIN_3.txt	4723	4927
+EN_M_TRAIN_32.txt	0	67
+EN_M_TRAIN_32.txt	71	571	Quality_of_life	Cultural_identity	Political
+EN_M_TRAIN_32.txt	575	1241	Capacity_and_resources	Quality_of_life
+EN_M_TRAIN_32.txt	1245	1596	Quality_of_life
+EN_M_TRAIN_32.txt	1600	2124	Quality_of_life
+EN_TRIAL_5.txt	0	64	Security_and_defense	Political
+EN_TRIAL_5.txt	66	259	Crime_and_punishment	Security_and_defense	Political
+EN_TRIAL_5.txt	261	504	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Crime_and_punishment	Security_and_defense	Political
+EN_TRIAL_5.txt	506	594	Security_and_defense	Political
+EN_TRIAL_5.txt	596	870
+EN_TRIAL_5.txt	872	1118	Crime_and_punishment	Security_and_defense
+EN_TRIAL_5.txt	1120	1148	Political
+EN_TRIAL_5.txt	1150	1368	Fairness_and_equality	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Crime_and_punishment	Security_and_defense	Cultural_identity	Political
+EN_TRIAL_5.txt	1370	1586	Crime_and_punishment	Security_and_defense	Political
+EN_TRIAL_5.txt	1588	1871	Political
+EN_TRIAL_5.txt	1873	2077
+EN_M_TRAIN_12.txt	0	70
+EN_M_TRAIN_12.txt	74	651	Quality_of_life
+EN_M_TRAIN_12.txt	655	1121	Security_and_defense
+EN_M_TRAIN_12.txt	1125	1452	Quality_of_life
+EN_M_TRAIN_12.txt	1456	1991	Security_and_defense
+EN_M_TRAIN_12.txt	1995	2263
+EN_M_TRAIN_12.txt	2267	2618
+EN_M_TRAIN_12.txt	2622	3056
+EN_M_TRAIN_12.txt	3060	3345
+EN_M_TRAIN_12.txt	3349	3778	Security_and_defense
+EN_M_TRAIN_12.txt	3782	4150
+EN_M_TRAIN_21.txt	0	69
+EN_M_TRAIN_21.txt	73	632
+EN_M_TRAIN_21.txt	636	915
+EN_M_TRAIN_21.txt	919	1310
+EN_M_TRAIN_21.txt	1314	2086	Security_and_defense	Quality_of_life
+EN_M_TRAIN_21.txt	2090	2869	Quality_of_life
+EN_M_TRAIN_21.txt	2873	3090	Quality_of_life
+EN_M_TRAIN_21.txt	3094	3489
+EN_M_TRAIN_79.txt	0	99	Political
+EN_M_TRAIN_79.txt	103	683	Political
+EN_M_TRAIN_79.txt	687	881	Legality_Constitutionality_and_jurisprudence	Security_and_defense	Political
+EN_M_TRAIN_79.txt	885	1151
+EN_M_TRAIN_79.txt	1155	1700
+EN_M_TRAIN_79.txt	1704	2108
+EN_M_TRAIN_79.txt	2112	2761	Security_and_defense
+EN_M_TRAIN_79.txt	2765	3070	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Security_and_defense	Political
+EN_M_TRAIN_79.txt	3074	3382	Political
+EN_M_TRAIN_79.txt	3386	3974
+EN_M_TRAIN_79.txt	3978	4340
+EN_M_TRAIN_79.txt	4344	4636	Policy_prescription_and_evaluation	Political
+EN_M_TRAIN_79.txt	4640	4981	Political
+EN_M_TRAIN_79.txt	4985	5388
+EN_M_TRAIN_79.txt	5392	5675
+EN_M_TRAIN_79.txt	5679	5935
+EN_M_TRAIN_79.txt	5939	6147	Political
+EN_M_TRAIN_79.txt	6151	6715	Political
+EN_M_TRAIN_79.txt	6719	6965	Political
+EN_M_TRAIN_79.txt	6969	7444	Political
+EN_M_TRAIN_36.txt	0	84	Political
+EN_M_TRAIN_36.txt	88	850	Policy_prescription_and_evaluation	Quality_of_life	Political	External_regulation_and_reputation
+EN_M_TRAIN_36.txt	854	1478	Political
+EN_M_TRAIN_36.txt	1482	2186	Political
+EN_M_TRAIN_36.txt	2190	2662	Political
+EN_M_TRAIN_36.txt	2666	3065	Security_and_defense	Political
+EN_M_TRAIN_36.txt	3069	3506	Quality_of_life	Political
+EN_M_TRAIN_36.txt	3510	4070	Security_and_defense	Political
+EN_M_TRAIN_36.txt	4074	4400	Economic	Capacity_and_resources	Quality_of_life	Political
+EN_M_TRAIN_36.txt	4404	4768	Economic	Capacity_and_resources	Quality_of_life	Political
+EN_M_TRAIN_36.txt	4772	5381	Security_and_defense	Political
+EN_M_TRAIN_36.txt	5385	5836	Policy_prescription_and_evaluation	Security_and_defense	Quality_of_life	Political	External_regulation_and_reputation
+EN_M_TRAIN_36.txt	5840	6132	Political
+EN_M_TRAIN_36.txt	6136	6512	Security_and_defense	Political
+EN_M_TRAIN_36.txt	6516	6627	Political
+EN_M_TRAIN_76.txt	0	57	Political
+EN_M_TRAIN_76.txt	61	956	Policy_prescription_and_evaluation	Political	External_regulation_and_reputation
+EN_M_TRAIN_76.txt	960	1579	Policy_prescription_and_evaluation	Political
+EN_M_TRAIN_76.txt	1583	2016	Political
+EN_M_TRAIN_76.txt	2020	2615	Political
+EN_M_TRAIN_76.txt	2619	2974	Political
+EN_M_TRAIN_76.txt	2978	3830	Policy_prescription_and_evaluation	Security_and_defense	Political	External_regulation_and_reputation
+EN_M_TRAIN_76.txt	3834	4404	Policy_prescription_and_evaluation	Quality_of_life	Political
+EN_TRAIL_2.txt	0	81	Political
+EN_TRAIL_2.txt	83	313	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Security_and_defense	Political
+EN_TRAIL_2.txt	315	698	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Political
+EN_TRAIL_2.txt	700	929	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Security_and_defense	Political
+EN_TRAIL_2.txt	931	1108	Fairness_and_equality	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Security_and_defense	Political
+EN_TRAIL_2.txt	1110	1147	Political
+EN_TRAIL_2.txt	1149	1371	Policy_prescription_and_evaluation	Political
+EN_TRAIL_2.txt	1373	1501	Legality_Constitutionality_and_jurisprudence	Political
+EN_TRAIL_2.txt	1503	1666	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Political
+EN_TRAIL_2.txt	1668	1951	Fairness_and_equality	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Security_and_defense	Political
+EN_TRAIL_2.txt	1953	2047	Political
+EN_TRAIL_2.txt	2049	2158	Political
+EN_TRAIL_2.txt	2160	2185	Political
+EN_TRAIL_2.txt	2187	2513	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Crime_and_punishment	Security_and_defense	Political
+EN_TRAIL_2.txt	2515	2664	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Political
+EN_TRAIL_2.txt	2666	2938	Legality_Constitutionality_and_jurisprudence	Security_and_defense	Cultural_identity	Political
+EN_TRAIL_2.txt	2940	3147	Fairness_and_equality	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Political
+EN_TRAIL_2.txt	3149	3274	Political
+EN_TRAIL_2.txt	3276	3469	Fairness_and_equality	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Security_and_defense	Political
+EN_TRAIL_2.txt	3471	3805	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment	Security_and_defense	Political
+EN_TRAIL_2.txt	3807	3822	Political
+EN_TRAIL_2.txt	3824	4060	Political
+EN_TRAIL_2.txt	4062	4343	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Security_and_defense	Political
+EN_TRAIL_2.txt	4345	4541
+EN_TRAIL_2.txt	4543	4575	Political
+EN_TRAIL_2.txt	4577	4802	Political
+EN_TRAIL_2.txt	4804	4939	Political
+EN_TRAIL_2.txt	4941	5131	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Security_and_defense	Political
+EN_TRAIL_2.txt	5133	5257
+EN_TRAIL_2.txt	5259	5405	Political
+EN_TRAIL_2.txt	5407	5503	Policy_prescription_and_evaluation	Political
+EN_M_TRAIN_64.txt	0	41	Political
+EN_M_TRAIN_64.txt	45	640	Policy_prescription_and_evaluation	Political
+EN_M_TRAIN_64.txt	644	1150	Quality_of_life
+EN_M_TRAIN_64.txt	1154	1399	Political
+EN_M_TRAIN_64.txt	1403	1664	Political
+EN_M_TRAIN_64.txt	1668	2132	Political
+EN_M_TRAIN_64.txt	2136	2530	Security_and_defense	Political
+EN_M_TRAIN_64.txt	2534	2905	Security_and_defense
+EN_M_TRAIN_64.txt	2909	3245	Political
+EN_M_TRAIN_64.txt	3249	3515	Capacity_and_resources	Quality_of_life
+EN_M_TRAIN_64.txt	3519	3829	Political
+EN_M_TRAIN_64.txt	3833	4200	Political
+EN_M_TRAIN_64.txt	4204	4489	Political
+EN_M_TRAIN_64.txt	4493	4999	Policy_prescription_and_evaluation	Political
+EN_M_TRAIN_64.txt	5003	5234	Political
+EN_M_TRAIN_64.txt	5238	5584	Political
+EN_M_TRAIN_51.txt	0	76	Political
+EN_M_TRAIN_51.txt	80	322	Capacity_and_resources	Political
+EN_M_TRAIN_51.txt	326	607	Economic	Capacity_and_resources	Quality_of_life	Political
+EN_M_TRAIN_51.txt	611	841	Economic	Capacity_and_resources	Public_opinion	Political
+EN_M_TRAIN_51.txt	845	1059	Capacity_and_resources	Political
+EN_M_TRAIN_51.txt	1063	1431	Capacity_and_resources
+EN_M_TRAIN_51.txt	1435	1821	Capacity_and_resources	Political
+EN_M_TRAIN_51.txt	1825	2260	Capacity_and_resources	Cultural_identity	Political
+EN_M_TRAIN_51.txt	2264	2493	Capacity_and_resources	Political
+EN_M_TRAIN_51.txt	2497	2876	Economic	Capacity_and_resources	Policy_prescription_and_evaluation	Public_opinion	Political
+EN_M_TRAIN_51.txt	2880	3193	Capacity_and_resources	Political
+EN_M_TRAIN_51.txt	3197	3389	Capacity_and_resources
+EN_M_TRAIN_51.txt	3393	3594	Capacity_and_resources	Political
+EN_M_TRAIN_51.txt	3598	4246	Capacity_and_resources	Public_opinion	Political
+EN_M_TRAIN_4.txt	0	69
+EN_M_TRAIN_4.txt	73	204
+EN_M_TRAIN_4.txt	208	520
+EN_M_TRAIN_4.txt	524	692
+EN_M_TRAIN_4.txt	696	1332
+EN_M_TRAIN_4.txt	1336	1347	Political
+EN_M_TRAIN_4.txt	1351	1769
+EN_M_TRAIN_4.txt	1773	2144
+EN_M_TRAIN_4.txt	2148	2304
+EN_M_TRAIN_4.txt	2308	2611
+EN_M_TRAIN_4.txt	2615	2952
+EN_M_TRAIN_4.txt	2956	3279
+EN_M_TRAIN_4.txt	3283	3527
+EN_M_TRAIN_29.txt	0	71
+EN_M_TRAIN_29.txt	75	459
+EN_M_TRAIN_29.txt	463	946	Security_and_defense	Quality_of_life
+EN_M_TRAIN_29.txt	950	1152	Quality_of_life
+EN_M_TRAIN_29.txt	1156	1418
+EN_M_TRAIN_29.txt	1422	1697
+EN_M_TRAIN_29.txt	1701	2219	Security_and_defense	Health_and_safety	Quality_of_life
+EN_M_TRAIN_29.txt	2223	2650	Health_and_safety	Quality_of_life
+EN_M_TRAIN_29.txt	2654	3201
+EN_M_TRAIN_37.txt	0	46	Political
+EN_M_TRAIN_37.txt	50	928	Economic	Capacity_and_resources	Quality_of_life	Public_opinion	Political
+EN_M_TRAIN_37.txt	932	1149	Capacity_and_resources	Political
+EN_M_TRAIN_37.txt	1153	1515	Economic	Capacity_and_resources	Policy_prescription_and_evaluation	Quality_of_life	Public_opinion	Political
+EN_M_TRAIN_37.txt	1519	1853	Capacity_and_resources	Public_opinion	Political
+EN_M_TRAIN_37.txt	1857	2183	Capacity_and_resources
+EN_M_TRAIN_37.txt	2187	2501
+EN_M_TRAIN_37.txt	2505	2885	Economic	Capacity_and_resources	Policy_prescription_and_evaluation	Quality_of_life	Public_opinion	Political
+EN_TRIAL_4.txt	0	62	Political
+EN_TRIAL_4.txt	64	215	Capacity_and_resources	Political
+EN_TRIAL_4.txt	217	474	Capacity_and_resources	Quality_of_life
+EN_TRIAL_4.txt	476	675	Political
+EN_TRIAL_4.txt	677	968	Economic	Capacity_and_resources	Policy_prescription_and_evaluation	Quality_of_life	Public_opinion	Political
+EN_TRIAL_4.txt	970	1193	Policy_prescription_and_evaluation	Political
+EN_TRIAL_4.txt	1195	1390	Capacity_and_resources	Political
+EN_TRIAL_4.txt	1392	1659	Economic	Capacity_and_resources	Policy_prescription_and_evaluation	Quality_of_life	Political
+EN_TRIAL_4.txt	1661	1888	Capacity_and_resources
+EN_TRIAL_4.txt	1890	1990	Political
+EN_TRIAL_4.txt	1992	2210	Political
+EN_TRIAL_4.txt	2212	2400	Capacity_and_resources
+EN_TRIAL_4.txt	2402	2479	Political
+EN_TRIAL_4.txt	2481	2507	Political
+EN_TRIAL_4.txt	2509	2684	Policy_prescription_and_evaluation	Political
+EN_TRIAL_4.txt	2686	2818	Policy_prescription_and_evaluation	Political
+EN_TRIAL_4.txt	2820	3096	Policy_prescription_and_evaluation	Quality_of_life	Political
+EN_TRIAL_4.txt	3098	3126	Political
+EN_TRIAL_4.txt	3128	3328	Capacity_and_resources	Policy_prescription_and_evaluation	Political
+EN_TRIAL_4.txt	3330	3819	Economic	Capacity_and_resources	Policy_prescription_and_evaluation	Quality_of_life	Public_opinion	Political
+EN_TRIAL_4.txt	3821	4153	Economic	Capacity_and_resources	Policy_prescription_and_evaluation	Quality_of_life	Political
+EN_TRIAL_4.txt	4155	4225
+EN_TRIAL_4.txt	4227	4617	Economic	Capacity_and_resources	Quality_of_life
+EN_TRIAL_4.txt	4619	4789	Capacity_and_resources	Quality_of_life
+EN_TRIAL_4.txt	4791	4887	Economic	Capacity_and_resources	Policy_prescription_and_evaluation	Quality_of_life	Political
+EN_TRIAL_4.txt	4889	4973	Capacity_and_resources	Political
+EN_TRIAL_4.txt	4975	5220	Capacity_and_resources	Political
+EN_TRIAL_4.txt	5222	5266	Capacity_and_resources
+EN_TRIAL_4.txt	5268	5407	Quality_of_life
+EN_TRIAL_4.txt	5409	5593	Capacity_and_resources	Quality_of_life
+EN_TRIAL_4.txt	5595	5923	Economic	Capacity_and_resources	Policy_prescription_and_evaluation	Quality_of_life	Political
+EN_TRIAL_4.txt	5925	6066	Economic	Capacity_and_resources	Political
+EN_TRIAL_4.txt	6068	6324	Economic	Capacity_and_resources	Quality_of_life	Political
+EN_TRIAL_4.txt	6326	6590	Economic	Capacity_and_resources	Policy_prescription_and_evaluation	Quality_of_life	Political
+EN_TRIAL_4.txt	6592	6741	Capacity_and_resources	Policy_prescription_and_evaluation	Political
+EN_TRIAL_4.txt	6743	6881	Capacity_and_resources	Quality_of_life
+EN_TRIAL_4.txt	6883	7027	Policy_prescription_and_evaluation	Political
+EN_TRIAL_4.txt	7029	7342	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Political
+EN_M_TRAIN_56.txt	0	94
+EN_M_TRAIN_56.txt	98	708	Health_and_safety	Quality_of_life
+EN_M_TRAIN_56.txt	712	1107	Quality_of_life
+EN_M_TRAIN_56.txt	1111	1513	Quality_of_life
+EN_M_TRAIN_56.txt	1517	1998	Capacity_and_resources	Quality_of_life
+EN_M_TRAIN_56.txt	2002	2384	Capacity_and_resources	Quality_of_life
+EN_M_TRAIN_30.txt	0	41
+EN_M_TRAIN_30.txt	45	531	Quality_of_life
+EN_M_TRAIN_30.txt	535	743
+EN_M_TRAIN_30.txt	747	1009
+EN_M_TRAIN_30.txt	1013	1384	Quality_of_life
+EN_M_TRAIN_30.txt	1388	2057	Quality_of_life
+EN_M_TRAIN_30.txt	2061	2367	Quality_of_life
+EN_M_TRAIN_30.txt	2371	2658
+EN_M_TRAIN_30.txt	2662	3024	Quality_of_life
+EN_M_TRAIN_73.txt	0	68	Political
+EN_M_TRAIN_73.txt	72	657	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Quality_of_life	Political
+EN_M_TRAIN_73.txt	661	892	Capacity_and_resources	Policy_prescription_and_evaluation	Quality_of_life	Political
+EN_M_TRAIN_73.txt	896	1146	Economic	Capacity_and_resources	Policy_prescription_and_evaluation	Quality_of_life	Public_opinion	Political
+EN_M_TRAIN_73.txt	1150	1603	Capacity_and_resources	Political
+EN_M_TRAIN_73.txt	1607	1977	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Security_and_defense	Quality_of_life	Political
+EN_M_TRAIN_73.txt	1981	2459	Policy_prescription_and_evaluation	Quality_of_life	Political
+EN_M_TRAIN_73.txt	2463	2747	Policy_prescription_and_evaluation	Political

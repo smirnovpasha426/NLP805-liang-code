@@ -1,0 +1,208 @@
+EN_M_TRAIN_24.txt	0	78
+EN_M_TRAIN_24.txt	82	467	Security_and_defense	Quality_of_life	External_regulation_and_reputation
+EN_M_TRAIN_24.txt	471	793	Security_and_defense
+EN_M_TRAIN_24.txt	797	1145	Security_and_defense	Health_and_safety	Quality_of_life
+EN_M_TRAIN_24.txt	1149	1444	Political
+EN_M_TRAIN_24.txt	1448	1715	Political
+EN_TRAIL_1.txt	0	66	Economic
+EN_TRAIL_1.txt	70	568	Economic	Capacity_and_resources	Policy_prescription_and_evaluation	Political
+EN_TRAIL_1.txt	574	1303	Economic	Health_and_safety
+EN_TRAIL_1.txt	1307	2042	Economic	Political
+EN_TRAIL_1.txt	2046	2761	Economic	Health_and_safety	Political
+EN_TRAIL_1.txt	2765	3089	Economic	Health_and_safety
+EN_M_TRAIN_75.txt	0	53
+EN_M_TRAIN_75.txt	57	931	Security_and_defense
+EN_M_TRAIN_75.txt	935	1255
+EN_M_TRAIN_75.txt	1259	1753
+EN_M_TRAIN_75.txt	1757	2322	Health_and_safety	Quality_of_life
+EN_M_TRAIN_75.txt	2326	2723	Security_and_defense
+EN_M_TRAIN_75.txt	2727	2972
+EN_M_TRAIN_83.txt	0	58
+EN_M_TRAIN_83.txt	62	665	Security_and_defense	Quality_of_life
+EN_M_TRAIN_83.txt	669	1024	Security_and_defense
+EN_M_TRAIN_83.txt	1028	1315
+EN_M_TRAIN_83.txt	1319	1632	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_83.txt	1636	2085	Security_and_defense
+EN_M_TRAIN_83.txt	2089	2345	Security_and_defense
+EN_M_TRAIN_83.txt	2349	2611	Security_and_defense	Political
+EN_M_TRAIN_83.txt	2615	2873
+EN_M_TRAIN_16.txt	0	69
+EN_M_TRAIN_16.txt	73	346
+EN_M_TRAIN_16.txt	350	611
+EN_M_TRAIN_16.txt	615	987	Security_and_defense
+EN_M_TRAIN_16.txt	991	1386	Security_and_defense
+EN_M_TRAIN_63.txt	0	71
+EN_M_TRAIN_63.txt	75	639	Economic	Health_and_safety
+EN_M_TRAIN_63.txt	643	960	Economic	Health_and_safety	Quality_of_life
+EN_M_TRAIN_63.txt	964	1248	Economic	Health_and_safety	Quality_of_life
+EN_M_TRAIN_63.txt	1252	1634	Health_and_safety	Quality_of_life
+EN_M_TRAIN_63.txt	1638	2218	Economic	Capacity_and_resources	Health_and_safety	Quality_of_life
+EN_M_TRAIN_63.txt	2222	2544	Economic	Capacity_and_resources	Health_and_safety	Quality_of_life
+EN_M_TRAIN_63.txt	2548	3139	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_9.txt	0	93
+EN_M_TRAIN_9.txt	97	221	Political
+EN_M_TRAIN_9.txt	225	554	Security_and_defense	Political
+EN_M_TRAIN_9.txt	558	986	Security_and_defense	Political
+EN_M_TRAIN_9.txt	990	1328	Security_and_defense
+EN_M_TRAIN_9.txt	1332	1582	Security_and_defense
+EN_M_TRAIN_9.txt	1586	2003	Security_and_defense
+EN_M_TRAIN_9.txt	2007	2459	Security_and_defense	Political
+EN_M_TRAIN_9.txt	2463	2672
+EN_M_TRAIN_9.txt	2676	2993	Political
+EN_M_TRAIN_9.txt	2997	3347	Security_and_defense	Health_and_safety	Quality_of_life
+EN_M_TRAIN_9.txt	3351	3471	Political
+EN_M_TRAIN_9.txt	3475	3753
+EN_M_TRAIN_9.txt	3757	3896
+EN_M_TRAIN_9.txt	3900	4214	Economic	Health_and_safety	Quality_of_life
+EN_M_TRAIN_9.txt	4218	4452	Health_and_safety	Quality_of_life
+EN_M_TRAIN_9.txt	4456	4864	Security_and_defense	Quality_of_life
+EN_M_TRAIN_9.txt	4868	5314	Security_and_defense
+EN_M_TRAIN_9.txt	5318	5539	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_9.txt	5543	5926	Security_and_defense
+EN_M_TRAIN_9.txt	5930	6318	Security_and_defense
+EN_M_TRAIN_9.txt	6322	6577
+EN_M_TRAIN_85.txt	0	61
+EN_M_TRAIN_85.txt	65	690	Legality_Constitutionality_and_jurisprudence	Security_and_defense
+EN_M_TRAIN_85.txt	694	1197	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_85.txt	1201	1489	Political
+EN_M_TRAIN_85.txt	1493	1842	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Security_and_defense	Political
+EN_M_TRAIN_85.txt	1846	2227	Security_and_defense	Health_and_safety
+EN_M_TRAIN_85.txt	2231	2594	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_85.txt	2598	2952	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Political
+EN_M_TRAIN_85.txt	2956	3107	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_85.txt	3111	3457
+EN_M_TRAIN_85.txt	3461	3939	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_85.txt	3943	4612	Legality_Constitutionality_and_jurisprudence	Security_and_defense
+EN_M_TRAIN_10.txt	0	72
+EN_M_TRAIN_10.txt	76	344	Political
+EN_M_TRAIN_10.txt	348	578	Economic	Political	External_regulation_and_reputation
+EN_M_TRAIN_10.txt	582	803	Political
+EN_M_TRAIN_10.txt	807	1076	Political
+EN_M_TRAIN_10.txt	1080	1139
+EN_M_TRAIN_10.txt	1143	1376
+EN_M_TRAIN_10.txt	1380	1625
+EN_M_TRAIN_10.txt	1629	1753
+EN_M_TRAIN_10.txt	1757	1995	Security_and_defense
+EN_M_TRAIN_10.txt	1999	2328	Political
+EN_M_TRAIN_10.txt	2332	2576
+EN_M_TRAIN_10.txt	2580	2726
+EN_M_TRAIN_10.txt	2730	3015
+EN_M_TRAIN_10.txt	3019	3389
+EN_M_TRAIN_10.txt	3393	3652	Policy_prescription_and_evaluation	Security_and_defense	Political
+EN_M_TRAIN_10.txt	3656	3906	Policy_prescription_and_evaluation	Political
+EN_M_TRAIN_10.txt	3910	4054	Economic	Political
+EN_M_TRAIN_10.txt	4058	4273	Security_and_defense
+EN_M_TRAIN_10.txt	4277	4495	Political
+EN_M_TRAIN_10.txt	4499	4608	Economic	Political
+EN_M_TRAIN_10.txt	4612	4817	Economic	Political
+EN_M_TRAIN_10.txt	4821	4853
+EN_M_TRAIN_19.txt	0	68
+EN_M_TRAIN_19.txt	72	444	Security_and_defense
+EN_M_TRAIN_19.txt	448	1044	Security_and_defense	Quality_of_life
+EN_M_TRAIN_19.txt	1048	1420	Security_and_defense
+EN_M_TRAIN_19.txt	1424	2131	Security_and_defense	Quality_of_life
+EN_M_TRAIN_19.txt	2135	2643	Security_and_defense
+EN_M_TRAIN_19.txt	2647	3021	Security_and_defense
+EN_M_TRAIN_19.txt	3025	3477	Security_and_defense
+EN_M_TRAIN_84.txt	0	86
+EN_M_TRAIN_84.txt	90	533	Economic	Policy_prescription_and_evaluation	Political
+EN_M_TRAIN_84.txt	537	1427	Economic	Health_and_safety
+EN_M_TRAIN_84.txt	1431	1713
+EN_M_TRAIN_84.txt	1717	1997	Economic	Health_and_safety
+EN_M_TRAIN_92.txt	0	64
+EN_M_TRAIN_92.txt	68	618	Security_and_defense
+EN_M_TRAIN_92.txt	622	1420	Security_and_defense
+EN_M_TRAIN_92.txt	1424	1781
+EN_M_TRAIN_92.txt	1785	2154
+EN_M_TRAIN_92.txt	2158	2447
+EN_M_TRAIN_92.txt	2451	2891	Security_and_defense
+EN_M_TRAIN_92.txt	2895	3547	Security_and_defense
+EN_M_TRAIN_92.txt	3551	3667
+EN_M_TRAIN_31.txt	0	69
+EN_M_TRAIN_31.txt	73	512
+EN_M_TRAIN_31.txt	516	852	Security_and_defense	Health_and_safety	Quality_of_life
+EN_M_TRAIN_31.txt	856	1177
+EN_M_TRAIN_31.txt	1181	1468	Health_and_safety
+EN_M_TRAIN_31.txt	1472	1733
+EN_M_TRAIN_31.txt	1737	1989	Health_and_safety
+EN_M_TRAIN_31.txt	1993	2297
+EN_M_TRAIN_31.txt	2301	2408	Political
+EN_M_TRAIN_31.txt	2412	2694
+EN_M_TRAIN_31.txt	2698	2881
+EN_M_TRAIN_31.txt	2885	3315
+EN_M_TRAIN_31.txt	3319	3795
+EN_M_TRAIN_31.txt	3799	4068
+EN_M_TRAIN_31.txt	4072	4455
+EN_M_TRAIN_31.txt	4459	4785
+EN_M_TRAIN_2.txt	0	63
+EN_M_TRAIN_2.txt	67	196
+EN_M_TRAIN_2.txt	200	413	Political
+EN_M_TRAIN_2.txt	417	542
+EN_M_TRAIN_2.txt	546	877	Security_and_defense
+EN_M_TRAIN_2.txt	881	1244	Security_and_defense	Political
+EN_M_TRAIN_2.txt	1248	1287
+EN_M_TRAIN_2.txt	1291	1662	Security_and_defense	Political
+EN_M_TRAIN_2.txt	1666	2019	Political
+EN_M_TRAIN_2.txt	2023	2300	Political
+EN_M_TRAIN_2.txt	2304	2657	Security_and_defense	Political
+EN_M_TRAIN_54.txt	0	52
+EN_M_TRAIN_54.txt	56	652
+EN_M_TRAIN_54.txt	656	1141	Security_and_defense	Political
+EN_M_TRAIN_54.txt	1145	1465	Security_and_defense
+EN_M_TRAIN_54.txt	1469	1673	Security_and_defense
+EN_M_TRAIN_54.txt	1677	2027
+EN_M_TRAIN_54.txt	2031	2316
+EN_M_TRAIN_54.txt	2320	2485	Economic
+EN_M_TRAIN_46.txt	0	16
+EN_M_TRAIN_46.txt	20	695	Security_and_defense	Political	External_regulation_and_reputation
+EN_M_TRAIN_46.txt	699	1212	Security_and_defense
+EN_M_TRAIN_46.txt	1216	1909	Security_and_defense	Political	External_regulation_and_reputation
+EN_M_TRAIN_46.txt	1913	2522	Economic	Capacity_and_resources	Policy_prescription_and_evaluation	Health_and_safety	Quality_of_life	Political
+EN_M_TRAIN_46.txt	2526	3031	Security_and_defense
+EN_M_TRAIN_46.txt	3035	3689	Security_and_defense	Political	External_regulation_and_reputation
+EN_M_TRAIN_46.txt	3693	4499	Economic	Capacity_and_resources	Policy_prescription_and_evaluation	Political	External_regulation_and_reputation
+EN_M_TRAIN_52.txt	0	51
+EN_M_TRAIN_52.txt	55	630
+EN_M_TRAIN_52.txt	634	1073
+EN_M_TRAIN_52.txt	1077	1403
+EN_M_TRAIN_52.txt	1407	1592
+EN_M_TRAIN_52.txt	1596	1975	Economic	Capacity_and_resources
+EN_M_TRAIN_52.txt	1979	2406
+EN_M_TRAIN_52.txt	2410	2615	Economic
+EN_M_TRAIN_52.txt	2619	2941
+EN_M_TRAIN_52.txt	2945	3152
+EN_M_TRAIN_52.txt	3156	3386
+EN_M_TRAIN_52.txt	3390	3760
+EN_M_TRAIN_52.txt	3764	4298
+EN_M_TRAIN_52.txt	4302	4882	Economic
+EN_M_TRAIN_65.txt	0	69	Economic
+EN_M_TRAIN_65.txt	73	558	Economic	Capacity_and_resources	Political
+EN_M_TRAIN_65.txt	562	900	Economic	Capacity_and_resources	Political
+EN_M_TRAIN_65.txt	904	1240	Economic	Political
+EN_M_TRAIN_65.txt	1244	1488	Economic	Health_and_safety
+EN_M_TRAIN_65.txt	1492	1858	Economic	Capacity_and_resources
+EN_M_TRAIN_65.txt	1862	2099
+EN_M_TRAIN_65.txt	2103	2610	Economic	Capacity_and_resources	Policy_prescription_and_evaluation	Political	External_regulation_and_reputation
+EN_M_TRAIN_65.txt	2614	2966	Economic	Political
+EN_M_TRAIN_65.txt	2970	3162	Economic	Political
+EN_M_TRAIN_65.txt	3166	3752	Economic	Capacity_and_resources	Health_and_safety	Quality_of_life
+EN_M_TRAIN_65.txt	3756	4108	Economic	Capacity_and_resources	Health_and_safety
+EN_M_TRAIN_65.txt	4112	4487	Economic	Capacity_and_resources	Health_and_safety	Quality_of_life
+EN_M_TRAIN_65.txt	4491	4837	Economic
+EN_M_TRAIN_65.txt	4841	5018	Economic	Capacity_and_resources
+EN_M_TRAIN_86.txt	0	66
+EN_M_TRAIN_86.txt	70	556	Security_and_defense	Quality_of_life
+EN_M_TRAIN_86.txt	560	884	Security_and_defense
+EN_M_TRAIN_86.txt	888	1252	Security_and_defense
+EN_M_TRAIN_86.txt	1256	1554	Security_and_defense	Health_and_safety	Quality_of_life
+EN_M_TRAIN_86.txt	1558	1962	Security_and_defense
+EN_M_TRAIN_86.txt	1966	2587	Security_and_defense
+EN_M_TRAIN_86.txt	2591	2734
+EN_M_TRAIN_35.txt	0	56	Political
+EN_M_TRAIN_35.txt	60	691	Security_and_defense	Political
+EN_M_TRAIN_35.txt	695	989	Security_and_defense
+EN_M_TRAIN_35.txt	993	1304	Political
+EN_M_TRAIN_35.txt	1308	1830	Security_and_defense	Political
+EN_M_TRAIN_35.txt	1834	2178	Security_and_defense	Political
+EN_M_TRAIN_35.txt	2182	2406	Political
+EN_M_TRAIN_35.txt	2410	3292	Security_and_defense	Political
